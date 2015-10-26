@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445862393 source:d:\users\piotr.bartela\documents\codeblocks\26-10_tablice_i_wektory\main.cpp
+	<iostream>
+	<math.h>
+
